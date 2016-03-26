@@ -1,0 +1,138 @@
+body {
+background:black;
+padding:0;
+margin:0;
+}
+
+
+/*--------------------This is Header Located from includes Header.php-------------------------*/
+
+#header{
+	width:1000px; 
+	height:140px; 
+	background:white;
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+/*--------------------This is Header Located from includes Header.php-------------------------*/
+
+
+
+/*--------------------This is Navbar Located from includes navbar.php-------------------------*/
+
+
+#navbar{
+	background:brown; 
+	width:1000px;
+	margin-right:auto; 
+	margin-left:auto; 
+	height:45px;
+}
+
+/*--------------------This is NavBar from includes navbar.php-------------------------*/
+
+
+/*--------------------This is Main_Content from includes main_containt.php-------------------------*/
+
+#main_content{
+	width:700px;
+	height: 600px; 
+	border-right:2px 
+	solid gray; 
+	float:left;
+	background:white; 
+	margin-left:175px;
+}
+					
+/*--------------------This is Main_Content from includes main_containt.php-------------------------*/
+
+
+
+/*--------------------This is Side_Bar from includes side_bar.php-------------------------*/
+
+#side_bar{
+	width:298px;
+	height: 600px;
+	float:right;
+	background:gray;
+	margin-right:173px;
+}
+
+
+/*--------------------This is Side_Bar from includes side_bar.php-------------------------*/
+
+
+
+/*--------------------This is Footer from includes footer.php-------------------------*/
+
+#footer{
+
+	width: 100%;
+	height: 30px;
+	background: orange;
+	clear: both;
+
+}
+
+/*--------------------This is Footer from includes footer.php-------------------------*/
+
+
+
+/*------------------ Logo And Banner Located In header------------------------*/
+
+#logo{
+
+	float: left;
+}
+
+#banner{
+
+	float: right;
+}
+
+/*------------------ Logo And Banner Located In header------------------------*/
+
+
+
+
+/*-------------------UL And Li Located In NavBar----------------------------*/
+
+#ul{
+
+	padding-top: 8px;
+
+
+}
+
+#ul li{
+
+	list-style: none;
+	display: inline;
+
+}
+
+#ul li a:link{
+
+	color: white;
+	text-decoration: none;
+	font-size: 18px;
+	font-family: comic sans MS;
+	margin: 5px;
+	border-right: 1px solid white; 
+	padding: 4px;
+
+}
+
+
+
+#ul li a:hover {
+	color:white; 
+	text-decoration:underline;
+	font-size:18px; 
+	background:orange; 
+	padding:5px;
+}
+
+
+/*-------------------UL And Li Located In NavBar----------------------------*/
